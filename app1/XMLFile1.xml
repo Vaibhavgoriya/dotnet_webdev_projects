@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+	<Ad>
+		<ImageUrl>image.jpg</ImageUrl>
+		<Keyword>Technology</Keyword>
+		<NavigateUrl>https://www.google.com</NavigateUrl>
+		<AlternateText>Explore Technology</AlternateText>
+		<Impressions>10</Impressions>
+		<ClickUrl>https://www.google.com/tech</ClickUrl>
+		<StartDate>2024-12-31</StartDate>
+		<EndDate>2025-01-15</EndDate>
+		<IsActive>true</IsActive>
+	</Ad>
+	<Ad>
+		<Keyword>Education</Keyword>
+		<NavigateUrl>https://www.edx.org</NavigateUrl>
+		<AlternateText>Learn Something New</AlternateText>
+		<Impressions>5</Impressions>
+		<ClickUrl>https://www.edx.org/courses</ClickUrl>
+		<StartDate>2024-12-25</StartDate>
+		<EndDate>2025-01-10</EndDate>
+		<IsActive>true</IsActive>
+	</Ad>
+</Advertisements>
